@@ -1,23 +1,25 @@
-Online Recipe Book
+#Online Recipe Book#
 Description
 The Online Recipe Book is a web application that allows users to explore a diverse range of recipes. Built with React, this project provides a user-friendly interface for searching, viewing, and saving favorite recipes. Utilizing the Spoonacular API, it offers a seamless experience in discovering culinary delights.
-Features
+FEATURES
+
 Search Functionality: Quickly find recipes by typing keywords in the search bar.
 Recipe Cards: Displayed with images, titles, and brief descriptions for easy browsing.
 Ingredient Lists: Detailed lists of ingredients for each recipe.
 Recipe Details View: Comprehensive information including instructions for each recipe.
 Responsive Design: Optimized for both desktop and mobile devices.
 Favicon: A customized favicon representing the essence of cooking.
-Technologies Used
+TECHNOLOGY USED
+
 React.js: For building the user interface.
 HTML: Structure of the web application.
 CSS: Styling and layout of the components.
 JavaScript: Interactivity and functionality.
 Spoonacular API: Public API for accessing recipe data.
+
 Setup
 Clone the repository:
 bash
-
 git clone https://github.com/online-recipe-book.git
 
 Navigate to the project directory:
