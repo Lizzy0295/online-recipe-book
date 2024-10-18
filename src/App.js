@@ -12,8 +12,6 @@ function App() {
   return (
     <div className="App">
       <h1>Online Recipe Book</h1>
-      <p>Find delicious recipes from all around the world</p>{" "}
-      {/* Added subtitle */}
       <SearchBar setQuery={setQuery} />
       <div className="recipe-cards">
         {filteredRecipes.length > 0 ? (
